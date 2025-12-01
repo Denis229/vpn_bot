@@ -1,0 +1,7 @@
+python-telegram-bot==21.6
+pydantic==2.7.1
+pydantic-settings==2.2.1
+requests==2.31.0
+yookassa==3.2.3
+qrcode[pil]==7.4.2
+python-dotenv==1.0.1
